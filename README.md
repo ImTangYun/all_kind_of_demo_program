@@ -1,2 +1,2 @@
-# all_kind_of_demo_program
+# all_kinds_of_demo_program
 some demo program
